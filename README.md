@@ -1,6 +1,6 @@
-**CYBER CERTIFICATIONS** **, ROAD MAPS AND LEARNING PATHWAYS**
+# CYBER CERTIFICATIONS, ROAD MAPS AND LEARNING PATHWAYS
 
-**Vendor Index - Cybersecurity Certifications**
+## Vendor Index - Cybersecurity Certifications
 
 ****
 <img src="cyber_readme_assets/image1.png" alt="image1.png" width="100">
@@ -22,8 +22,8 @@
 **Free?** No.
 
 **OSEE (via EXP-401)** — Advanced Windows exploitation; kernel/mitigation bypass (expert-level).
-**Price****:** bundle/subscription as above.
-**Free****?** No.
+**Price:** bundle/subscription as above.
+**Free?** No.
 
 **OSDA (via SOC-200)** — Defensive Blue Team cert focused on SOC processes, SIEM, IR, and detection engineering.
 **Price:** bundle/subscription as above.
@@ -37,15 +37,15 @@
 
 **eJPT** — Entry-level practical junior pentesting cert (network/web basics, enumeration, exploitation).
 **Price:** Voucher only or bundle pricing varies; commonly offered via Premium bundles; expect ~$399–$599 depending on promo.
-**Free****?** No.
+**Free?** No.
 
 **eCPPT** — Practical professional pentesting (end-to-end engagement incl. reporting).
-**Price:** Voucher-only available to Premium subscribers; popular **eCPPT**** + 3 months Premium** bundle around ~$599.
-**Free****?** No.
+**Price:** Voucher-only available to Premium subscribers; popular **eCPPT + 3 months Premium** bundle around ~$599.
+**Free?** No.
 
 **eCTHP** — Certified Threat Hunting Professional (blue-team hunting across endpoints/network).
-**Price:** Voucher-only for Premium subscribers • **eCTHP**** + 3 months Premium** bundle commonly ~$599 (varies by promo).
-**Free****?** No.
+**Price:** Voucher-only for Premium subscribers • **eCTHP + 3 months Premium** bundle commonly ~$599 (varies by promo).
+**Free?** No.
 
 <img src="cyber_readme_assets/image3.png" alt="image3.png" width="100">
 
@@ -68,12 +68,12 @@
 **Free?** No.
 
 **Cybersecurity Associate (CBROPS 200-201)** — Associate SOC fundamentals: monitoring, host/network analysis, policies.
-**Price****:** $300.
-**Free****?** No.
+**Price:** $300.
+**Free?** No.
 
 **Cybersecurity Professional (CBRCOR 350-201 + concentration)** — Professional-level CyberOps; one core ($400) + one concentration ($300).
-**Price****:** ~$700 total exams (core + concentration).
-**Free****?** No.
+**Price:** ~$700 total exams (core + concentration).
+**Free?** No.
 
 <img src="cyber_readme_assets/image5.png" alt="image5.png" width="100">
 
@@ -83,11 +83,11 @@
 
 **SSCP** — Admin-level security operations & implementation across seven CBK domains.
 **Price:** ~$249 exam (regional pricing). AMF $125/year (pro-level), or $50 if only holding CC-tier.
-**Free****?** No.
+**Free?** No.
 
 **CISSP** — Senior-level security leadership/architecture/engineering across eight domains.
-**Price****:** ~$749 exam (regional pricing). AMF $135/year.
-**Free****?** No.
+**Price:** ~$749 exam (regional pricing). AMF $135/year.
+**Free?** No.
 
 <img src="cyber_readme_assets/image6.png" alt="image6.png" width="100">
 
@@ -97,15 +97,15 @@
 
 **Network+** — Network implementation/troubleshooting.
 **Price:** ~$358–$369.
-**Free****?** No (regional funding may exist).
+**Free?** No (regional funding may exist).
 
 **Security+** — Baseline security: threats, risk, crypto, architecture.
-**Price****:** ~**$425** (US MSRP in 2025).
-**Free****?** No.
+**Price:** ~**$425** (US MSRP in 2025).
+**Free?** No.
 
-**CySA****+** — Blue-team analyst skills: threat detection, analysis, response.
-**Price****:** ~**$392** (US typical).
-**Free****?** No.
+**CySA+** — Blue-team analyst skills: threat detection, analysis, response.
+**Price:** ~**$392** (US typical).
+**Free?** No.
 
 <img src="cyber_readme_assets/image7.png" alt="image7.png" width="100">
 
@@ -114,16 +114,16 @@
 **Free?** No.
 
 **CBBH (Certified Bug Bounty Hunter)** — Web app bug hunting methodology with practical exam.
-**Price****:** **$490**.
-**Free****?** No.
+**Price:** **$490**.
+**Free?** No
 
 **CWEE (Certified Web Exploitation Expert)** — Advanced web exploitation (manual techniques) with hands-on exam.
-**Price****:** **$490**.
-**Free****?** No.
+**Price:** **$490**.
+**Free?** No.
 
 **CDSA (Certified Defensive Security Analyst)** — Blue-team SOC analyst practical.
-**Price****:** **$490**.
-**Free****?** No.
+**Price:** **$490**.
+**Free?** No.
 
 <img src="cyber_readme_assets/image8.png" alt="image8.png" width="100">
 
@@ -132,12 +132,12 @@
 **Free?** No.
 
 **CRTO II – Red Team Ops II** — Advanced defense evasion, AD tradecraft; 96h exam.
-**Price****:** Course-only **£399** • with 30/60/90 days lab £429/£459/£489.
-**Free****?** No.
+**Price:** Course-only **£399** • with 30/60/90 days lab £429/£459/£489.
+**Free?** No.
 
 <img src="cyber_readme_assets/image9.png" alt="image9.png" width="100">
 
-**CCD – Certified ****CyberDefender** — Hands-on SOC/DFIR/hunting; 48-hour practical exam within 4-day window.
+**CCD – Certified CyberDefender** — Hands-on SOC/DFIR/hunting; 48-hour practical exam within 4-day window.
 **Price:** **$800** (includes training + 2 exam attempts).
 **Free?** No.
 
@@ -147,42 +147,42 @@
 **Free?** No. Student/military discounts available.
 
 **BTL2 – Blue Team Level 2** — Advanced SOC: malware analysis, threat hunting, vuln mgmt, advanced SIEM.
-**Price****:** **£1,999** (approx. 5 months access).
-**Free****?** No.
+**Price:** **£1,999** (approx. 5 months access).
+**Free?** No.
 
 <img src="cyber_readme_assets/image11.png" alt="image11.png" width="100">
 
-**G****o****o****g****l****e**** ****IT Support Professional Certificate** — Job-ready IT support fundamentals; prep for CompTIA A+.
+**Google IT Support Professional Certificate** — Job-ready IT support fundamentals; prep for CompTIA A+.
 **Price:** **~$49/month** on Coursera (subscription).
 **Free?** No (7day free trial standard).
 
-**G****o****o****g****l****e**** ****Cybersecurity Professional Certificate** — SOC analyst tooling (SIEM, SOAR), detection basics, incident handling.
+**Google Cybersecurity Professional Certificate** — SOC analyst tooling (SIEM, SOAR), detection basics, incident handling.
 **Price:** **~$49/month** on Coursera.
 **Free?** No (trial available).
 
 <img src="cyber_readme_assets/image12.png" alt="image12.png" width="100">
 
 **SOC Level 1 (Pathway)** — Guided blue-team path (Windows/Linux basics, SIEM, IR fundamentals).
-**Price:** Requires **TryHackMe**** subscription** (monthly/annual tiers).
+**Price:** Requires **TryHackMe subscription** (monthly/annual tiers).
 **Free?** No (some rooms free; full path needs Premium).
 
 **SOC Level 2 (Pathway)** — Intermediate SOC/hunting/DFIR modules with hands-on labs.
-**Price****:** Included with active subscription.
-**Free****?** No.
+**Price:** Included with active subscription.
+**Free?** No.
 
 **SAL1 – Security Analyst Level 1** — Entrylevel defensive SOC certification combining multiplechoice questions with two SOC simulator scenarios. 24hour exam window; validates threat detection, alert triage, case reporting, and incident response.
 **Price:** **€349** (includes **3 months Premium** learning) **or €297** for existing Premium subscribers. Includes **1 free retake**.
 **Free?** No.
 
-**PT1 – Jr Penetration Tester** — Handson pentesting certification covering **AppSec, ****NetSec****, and Active Directory** with a realworld engagement feel and a required professional report. **48****hour** exam window. Includes **3 months Premium** learning and **1 free retake**.
+**PT1 – Jr Penetration Tester** — Handson pentesting certification covering **AppSec, NetSec, and Active Directory** with a realworld engagement feel and a required professional report. **48hour** exam window. Includes **3 months Premium** learning and **1 free retake**.
 **Price:** **€297** (with **15% discount** if you already have Premium).
 **Free?** No.
 
-**CyberSecurity**** ****BlueTeam**** RoadMap**
+## CyberSecurity BlueTeam RoadMap
 
-**BASICS**
+### BASICS
 
-Level 1
+### Level 1
 
 CompTIA A+ certificate
 
@@ -196,7 +196,7 @@ Google cybersecurity certificate
 
 [Google cybersecurity certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_google-cybersecurity_google_ftcof_professional-certificates_cx_dr_tt_gg_sem_pr_s1_en_m_hyb_25-08_sbetest&campaignid=22918155259&adgroupid=184004153893&device=c&keyword=google%20cybersecurity%20certificate&matchtype=b&network=g&devicemodel=&creativeid=768176947338&assetgroupid=&targetid=kwd-2044776026767&extensionid=&placement=&gad_source=1&gad_campaignid=22918155259&gclid=Cj0KCQjw8KrFBhDUARIsAMvIApYaHo1Y0jXYStvxfOw-aUGPd4tq-T70H1MesXzD91XSyJ2GYfxllGsaAtBWEALw_wcB)
 
-Level 2
+### Level 2
 
 CompTIA Network+ certificate
 
@@ -210,7 +210,7 @@ Cisco Certified Network Associate
 
 [https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html)
 
-Level 3
+### Level 3
 
 ISC2 Certified In Cybersecurity
 
@@ -242,7 +242,7 @@ CompTIA CySA+ certificate
 
 [https://www.comptia.org/en-us/certifications/cybersecurity-analyst](https://www.comptia.org/en-us/certifications/cybersecurity-analyst)
 
-Level 4
+### Level 4
 
 Cisco Cybersecurity Associate certification
 
@@ -274,9 +274,9 @@ Blue Team Level 1 (BTL1)
 
 [https://www.securityblue.team/certifications/blue-team-level-1](https://www.securityblue.team/certifications/blue-team-level-1)
 
-**ADVANCED**
+### ADVANCED
 
-Level 1
+### Level 1
 
 Cisco Cybersecurity Professional certification
 
@@ -308,21 +308,21 @@ Security Analysis Certification
 
 [HTB certification link](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst?irclickid=3P3WrhyZOxycTWJ26EQuh3jtUkpz3hyoPUGwTA0&irgwc=1)
 
-**Certified Threat Hunting Professional**
+Certified Threat Hunting Professional
 
 <img src="cyber_readme_assets/image2.png" alt="image2.png" width="100">
 
 [https://ine.com/security/certifications/ecthp-certification](https://ine.com/security/certifications/ecthp-certification)
 
-**Certified CyberDefender**
+Certified CyberDefender
 
 <img src="cyber_readme_assets/image9.png" alt="image9.png" width="100">
 
 [https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification)
 
-**Programming languages**
+## Programming languages
 
-Languages
+### Languages
 
 Python
 
@@ -352,11 +352,10 @@ JavaScript
 
 <img src="cyber_readme_assets/image21.png" alt="image21.png" width="100">
 
-Learning platforms
+### Learning platforms
 
-**Secure Code Warrior (companies exclusive)**
+Secure Code Warrior (companies exclusive)
 
-****
 <img src="cyber_readme_assets/image22.png" alt="image22.png" width="100">
 
 [https://www.securecodewarrior.com](https://www.securecodewarrior.com)
@@ -369,9 +368,9 @@ SJD-100: Secure Java Development Essentials
 
 [https://www.offsec.com/courses/sjd-100](https://www.offsec.com/courses/sjd-100)
 
-**CyberSecurity**** ****RedTeam**** **
+## CyberSecurity RedTeam
 
-Level 1
+### Level 1
 
 Certified Professional Penetration Tester
 
@@ -415,7 +414,7 @@ Jr Penetration Tester (PT1)
 
 [https://tryhackme.com/certification/junior-penetration-tester](https://tryhackme.com/certification/junior-penetration-tester)
 
-Level 2
+### Level 2
 
 WEB-300: Advanced Web Attacks and Exploitation
 
@@ -452,7 +451,7 @@ Red Team Ops II Exam
 
 [https://training.zeropointsecurity.co.uk/pages/red-team-ops-ii-exam](https://training.zeropointsecurity.co.uk/pages/red-team-ops-ii-exam)
 
-Level 3
+### Level 3
 
 EXP-401: Advanced Windows Exploitation
 
@@ -460,11 +459,10 @@ EXP-401: Advanced Windows Exploitation
 
 [https://www.offsec.com/courses/exp-401](https://www.offsec.com/courses/exp-401)
 
-**Learning ****Platforms**
+## Learning Platforms
 
-**Programming learning ****platforms**
+### Programming learning platforms
 
-****
 <img src="cyber_readme_assets/image23.png" alt="image23.png" width="100">
 
 - [**freeCodeCamp**](https://www.freecodecamp.org) — full, free, project-based curriculum.
@@ -473,7 +471,7 @@ EXP-401: Advanced Windows Exploitation
 - [**HackerRank**](https://www.hackerrank.com) — practice problems + interview prep tracks.
 - [**LeetCode**](https://leetcode.com) — algorithms & data-structures practice (huge problem set).
 - [**Exercism**](https://exercism.org) — mentor-guided exercises in many languages.
-**CTF ****platforms**
+### CTF platforms
 
 <img src="cyber_readme_assets/image24.gif" alt="image24.gif" width="100">
 
@@ -482,23 +480,22 @@ EXP-401: Advanced Windows Exploitation
 - [**OverTheWire**](https://overthewire.org/wargames) — classic wargames (Bandit, Narnia, etc.).
 - [**Root-Me**](https://www.root-me.org/?lang=en) — hundreds of CTF-style challenges across categories.
 - [**VulnHub**](https://www.vulnhub.com) — downloadable vulnerable VMs for offline CTF practice.
-**Cybersecurity learning platforms (incl. secure coding)**
+### Cybersecurity learning platforms (incl. secure coding)
 
-****
 <img src="cyber_readme_assets/image25.png" alt="image25.png" width="100">
 
 - [**TryHackMe**](https://tryhackme.com/dashboard) 🎮 — guided, hands-on labs (red/blue/purple).
-- [**PortSwigger**** Web Security Academy**](https://portswigger.net/web-security) — superb free web-appsec labs.
+- [**PortSwigger Web Security Academy**](https://portswigger.net/web-security) — superb free web-appsec labs.
 - [**PentesterLab**](https://pentesterlab.com) — practical web security & exploitation tracks.
 - [**Cybrary**](https://www.cybrary.it) — broad security courses (SOC, pentest, GRC, etc.).
 - [**OWASP Cheat Sheet Series**](https://cheatsheetseries.owasp.org) — concise secure-coding best practices.
-**Secure**** ****coding**** learning ****platforms**
+### Secure coding learning platforms
 
 <img src="cyber_readme_assets/image26.jpeg" alt="image26.jpeg" width="100">
 
 - [**Secure Code Warrior**](https://www.securecodewarrior.com) 🎮 — gamified secure-coding challenges and tournaments.
 - [**Veracode Security Labs**](https://www.veracode.com/products/security-labs) 🎮 — hands-on labs to exploit and fix vulns in safe, containerized apps.
-- [**Checkmarx**** ****Codebashing**](https://checkmarx.com/product/codebashing-secure-code-training) 🎮 — bite-sized interactive training with developer-friendly integrations.
-- [**Security Journey**](https://www.securityjourney.com)** (formerly ****HackEDU****)** 🎮 — secure development training; HackEDU acquired Security Journey in 2022.
+- [**Checkmarx Codebashing**](https://checkmarx.com/product/codebashing-secure-code-training) 🎮 — bite-sized interactive training with developer-friendly integrations.
+- [**Security Journey**](https://www.securityjourney.com) (formerly HackEDU) 🎮 — secure development training; HackEDU acquired Security Journey in 2022.
 - [**SecureFlag**](https://www.secureflag.com) 🎮 — thousands of hands-on secure-coding labs across 45+ tech stacks.
 - [**Kontra (OWASP Top 10 modules)**](https://application.security/free/owasp-top-10) 🎮 — interactive developer training focused on common web risks.
