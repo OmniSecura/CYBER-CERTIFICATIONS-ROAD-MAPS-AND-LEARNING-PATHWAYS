@@ -3,7 +3,7 @@
 **Vendor Index – Cybersecurity Certifications **
 
 ****
-![image1.png](cyber_readme_assets/image1.png)
+<img src="cyber_readme_assets/image1.png" alt="image1.png" width="700">
 
 **OSCP (via PEN-200)** — Hands-on penetration testing cert proving ability to enumerate, exploit, and escalate on Linux/Windows targets.
 **Price:** Course + Exam Bundle $1,749 (one-time) • Learn One $2,749/year • Learn Unlimited $6,099/year.
@@ -33,7 +33,7 @@
 **Price:** $899 one-time (1 year access).
 **Free?** No.
 
-![image2.png](cyber_readme_assets/image2.png)
+<img src="cyber_readme_assets/image2.png" alt="image2.png" width="700">
 
 **eJPT** — Entry-level practical junior pentesting cert (network/web basics, enumeration, exploitation).
 **Price:** Voucher only or bundle pricing varies; commonly offered via Premium bundles; expect ~$399–$599 depending on promo.
@@ -47,7 +47,7 @@
 **Price:** Voucher-only for Premium subscribers • **eCTHP**** + 3 months Premium** bundle commonly ~$599 (varies by promo).
 **Free****?** No.
 
-![image3.png](cyber_readme_assets/image3.png)
+<img src="cyber_readme_assets/image3.png" alt="image3.png" width="700">
 
 **PSAA (Practical SOC Analyst Associate)** — Hands-on SOC foundations: triage, SIEM, detection basics.
 **Price:** $200.
@@ -61,7 +61,7 @@
 **Price:** $399.
 **Free?** No.
 
-![image4.png](cyber_readme_assets/image4.png)
+<img src="cyber_readme_assets/image4.png" alt="image4.png" width="700">
 
 **CCNA (200-301)** — Associate networking: routing/switching, IP services, security fundamentals, automation.
 **Price:** $300 per exam attempt.
@@ -75,7 +75,7 @@
 **Price****:** ~$700 total exams (core + concentration).
 **Free****?** No.
 
-![image5.png](cyber_readme_assets/image5.png)
+<img src="cyber_readme_assets/image5.png" alt="image5.png" width="700">
 
 **CC – Certified in Cybersecurity** — Entry-level security foundations; pathway into SOC/analyst roles.
 **Price:** **Free training + free exam** via One Million Certified (limited-time). Annual Maintenance Fee (AMF) $50 after passing.
@@ -89,7 +89,7 @@
 **Price****:** ~$749 exam (regional pricing). AMF $135/year.
 **Free****?** No.
 
-![image6.png](cyber_readme_assets/image6.png)
+<img src="cyber_readme_assets/image6.png" alt="image6.png" width="700">
 
 **A+ (Core 1 & 2)** — Support/endpoint fundamentals (hardware, OS, troubleshooting).
 **Price:** ~$253 per exam (2 exams).
@@ -107,7 +107,7 @@
 **Price****:** ~**$392** (US typical).
 **Free****?** No.
 
-![image7.png](cyber_readme_assets/image7.png)
+<img src="cyber_readme_assets/image7.png" alt="image7.png" width="700">
 
 **CPTS (Certified Penetration Testing Specialist)** — Practical pentesting across HTB boxes/labs with reporting.
 **Price:** **$490** (includes labs + exam).
@@ -125,7 +125,7 @@
 **Price****:** **$490**.
 **Free****?** No.
 
-![image8.png](cyber_readme_assets/image8.png)
+<img src="cyber_readme_assets/image8.png" alt="image8.png" width="700">
 
 **CRTO – Red Team Ops** — Adversary simulation & C2 ops (Cobalt Strike), OPSEC, defense evasion; 48h practical exam.
 **Price:** Course £349–£399 typical; bundle options available (often includes 1 exam).
@@ -135,13 +135,13 @@
 **Price****:** Course-only **£399** • with 30/60/90 days lab £429/£459/£489.
 **Free****?** No.
 
-![image9.png](cyber_readme_assets/image9.png)
+<img src="cyber_readme_assets/image9.png" alt="image9.png" width="700">
 
 **CCD – Certified ****CyberDefender** — Hands-on SOC/DFIR/hunting; 48-hour practical exam within 4-day window.
 **Price:** **$800** (includes training + 2 exam attempts).
 **Free?** No.
 
-![image10.png](cyber_readme_assets/image10.png)
+<img src="cyber_readme_assets/image10.png" alt="image10.png" width="700">
 **BTL1 – Blue Team Level 1** — Junior SOC: phishing, DFIR, TI, SIEM, IR.
 **Price:** **£399** (includes 4 months content + labs + exam + one free retake).
 **Free?** No. Student/military discounts available.
@@ -150,7 +150,7 @@
 **Price****:** **£1,999** (approx. 5 months access).
 **Free****?** No.
 
-![image11.png](cyber_readme_assets/image11.png)
+<img src="cyber_readme_assets/image11.png" alt="image11.png" width="700">
 
 **G****o****o****g****l****e**** ****IT Support Professional Certificate** — Job-ready IT support fundamentals; prep for CompTIA A+.
 **Price:** **~$49/month** on Coursera (subscription).
@@ -160,7 +160,7 @@
 **Price:** **~$49/month** on Coursera.
 **Free?** No (trial available).
 
-![image12.png](cyber_readme_assets/image12.png)
+<img src="cyber_readme_assets/image12.png" alt="image12.png" width="700">
 
 **SOC Level 1 (Pathway)** — Guided blue-team path (Windows/Linux basics, SIEM, IR fundamentals).
 **Price:** Requires **TryHackMe**** subscription** (monthly/annual tiers).
@@ -186,13 +186,13 @@ Level 1
 
 CompTIA A+ certificate
 
-![image6.png](cyber_readme_assets/image6.png)
+<img src="cyber_readme_assets/image6.png" alt="image6.png" width="700">
 
 [https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cybersecurity/associate/index.html](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cybersecurity/associate/index.html)
 
 Google cybersecurity certificate
 
-![image13.png](cyber_readme_assets/image13.png)
+<img src="cyber_readme_assets/image13.png" alt="image13.png" width="700">
 
 [Google cybersecurity certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_google-cybersecurity_google_ftcof_professional-certificates_cx_dr_tt_gg_sem_pr_s1_en_m_hyb_25-08_sbetest&campaignid=22918155259&adgroupid=184004153893&device=c&keyword=google%20cybersecurity%20certificate&matchtype=b&network=g&devicemodel=&creativeid=768176947338&assetgroupid=&targetid=kwd-2044776026767&extensionid=&placement=&gad_source=1&gad_campaignid=22918155259&gclid=Cj0KCQjw8KrFBhDUARIsAMvIApYaHo1Y0jXYStvxfOw-aUGPd4tq-T70H1MesXzD91XSyJ2GYfxllGsaAtBWEALw_wcB)
 
@@ -200,13 +200,13 @@ Level 2
 
 CompTIA Network+ certificate
 
-![image6.png](cyber_readme_assets/image6.png)
+<img src="cyber_readme_assets/image6.png" alt="image6.png" width="700">
 
 [https://www.comptia.org/en-us/certifications/network](https://www.comptia.org/en-us/certifications/network)
 
 Cisco Certified Network Associate
 
-![image4.png](cyber_readme_assets/image4.png)
+<img src="cyber_readme_assets/image4.png" alt="image4.png" width="700">
 
 [https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html)
 
@@ -214,31 +214,31 @@ Level 3
 
 ISC2 Certified In Cybersecurity
 
-![image5.png](cyber_readme_assets/image5.png)
+<img src="cyber_readme_assets/image5.png" alt="image5.png" width="700">
 
 [https://www.isc2.org/certifications/cc](https://www.isc2.org/certifications/cc)
 
 ISC2  Systems Security Certified Practitioner
 
-![image5.png](cyber_readme_assets/image5.png)
+<img src="cyber_readme_assets/image5.png" alt="image5.png" width="700">
 
 [https://www.isc2.org/certifications/sscp](https://www.isc2.org/certifications/sscp)
 
 ISC2 Certified Information Systems Security Professional
 
-![image5.png](cyber_readme_assets/image5.png)
+<img src="cyber_readme_assets/image5.png" alt="image5.png" width="700">
 
 [https://www.isc2.org/certifications/cissp](https://www.isc2.org/certifications/cissp)
 
 CompTIA Security+ certificate
 
-![image6.png](cyber_readme_assets/image6.png)
+<img src="cyber_readme_assets/image6.png" alt="image6.png" width="700">
 
 [https://www.comptia.org/en-us/certifications/security](https://www.comptia.org/en-us/certifications/security)
 
 CompTIA CySA+ certificate
 
-![image6.png](cyber_readme_assets/image6.png)
+<img src="cyber_readme_assets/image6.png" alt="image6.png" width="700">
 
 [https://www.comptia.org/en-us/certifications/cybersecurity-analyst](https://www.comptia.org/en-us/certifications/cybersecurity-analyst)
 
@@ -246,31 +246,31 @@ Level 4
 
 Cisco Cybersecurity Associate certification
 
-![image4.png](cyber_readme_assets/image4.png)
+<img src="cyber_readme_assets/image4.png" alt="image4.png" width="700">
 
 [https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cybersecurity/associate/index.html](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cybersecurity/associate/index.html)
 
 Practical SOC Analyst Associate
 
-![image3.png](cyber_readme_assets/image3.png)
+<img src="cyber_readme_assets/image3.png" alt="image3.png" width="700">
 
 [https://certifications.tcm-sec.com/psaa](https://certifications.tcm-sec.com/psaa)
 
 SOC-200: Security Operations and Defensive Analysis
 
-![image1.png](cyber_readme_assets/image1.png)
+<img src="cyber_readme_assets/image1.png" alt="image1.png" width="700">
 
 [https://www.offsec.com/courses/soc-200](https://www.offsec.com/courses/soc-200)
 
 TryHackMe SOC Level 1 (pathway!!)
 
-![image12.png](cyber_readme_assets/image12.png)
+<img src="cyber_readme_assets/image12.png" alt="image12.png" width="700">
 
 [https://tryhackme.com/path/outline/soclevel1](https://tryhackme.com/path/outline/soclevel1)
 
 Blue Team Level 1 (BTL1)
 
-![image10.png](cyber_readme_assets/image10.png)
+<img src="cyber_readme_assets/image10.png" alt="image10.png" width="700">
 
 [https://www.securityblue.team/certifications/blue-team-level-1](https://www.securityblue.team/certifications/blue-team-level-1)
 
@@ -280,43 +280,43 @@ Level 1
 
 Cisco Cybersecurity Professional certification
 
-![image4.png](cyber_readme_assets/image4.png)
+<img src="cyber_readme_assets/image4.png" alt="image4.png" width="700">
 
 [https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cybersecurity/professional/index.html](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cybersecurity/professional/index.html)
 
 TryHackMe SOC Level 2 (pathway!!)
 
-![image12.png](cyber_readme_assets/image12.png)
+<img src="cyber_readme_assets/image12.png" alt="image12.png" width="700">
 
 [https://tryhackme.com/path/outline/soclevel2](https://tryhackme.com/path/outline/soclevel2)
 
 Security Analyst Level 1
 
-![image12.png](cyber_readme_assets/image12.png)
+<img src="cyber_readme_assets/image12.png" alt="image12.png" width="700">
 
 [https://tryhackme.com/certification/security-analyst-level-1](https://tryhackme.com/certification/security-analyst-level-1)
 
 Blue Team Level 2 (BTL2)
 
-![image10.png](cyber_readme_assets/image10.png)
+<img src="cyber_readme_assets/image10.png" alt="image10.png" width="700">
 
 [https://www.securityblue.team/certifications/blue-team-level-2](https://www.securityblue.team/certifications/blue-team-level-2)
 
 Security Analysis Certification
 
-![image14.png](cyber_readme_assets/image14.png)
+<img src="cyber_readme_assets/image14.png" alt="image14.png" width="700">
 
 [HTB certification link](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst?irclickid=3P3WrhyZOxycTWJ26EQuh3jtUkpz3hyoPUGwTA0&irgwc=1)
 
 Certified Threat Hunting Professional
 
-![image2.png](cyber_readme_assets/image2.png)
+<img src="cyber_readme_assets/image2.png" alt="image2.png" width="700">
 
 [https://ine.com/security/certifications/ecthp-certification](https://ine.com/security/certifications/ecthp-certification)
 
 Certified CyberDefender
 
-![image9.png](cyber_readme_assets/image9.png)
+<img src="cyber_readme_assets/image9.png" alt="image9.png" width="700">
 
 [https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification)
 
@@ -326,38 +326,38 @@ Languages
 
 Python
 
-![image15.png](cyber_readme_assets/image15.png)
+<img src="cyber_readme_assets/image15.png" alt="image15.png" width="700">
 
 Java
 
-![image16.png](cyber_readme_assets/image16.png)
+<img src="cyber_readme_assets/image16.png" alt="image16.png" width="700">
 
 C
 
-![image17.png](cyber_readme_assets/image17.png)
+<img src="cyber_readme_assets/image17.png" alt="image17.png" width="700">
 
 SQL
 
-![image18.png](cyber_readme_assets/image18.png)
+<img src="cyber_readme_assets/image18.png" alt="image18.png" width="700">
 
 PHP
 
-![image19.png](cyber_readme_assets/image19.png)
+<img src="cyber_readme_assets/image19.png" alt="image19.png" width="700">
 
 Bash
 
-![image20.png](cyber_readme_assets/image20.png)
+<img src="cyber_readme_assets/image20.png" alt="image20.png" width="700">
 
 JavaScript
 
-![image21.png](cyber_readme_assets/image21.png)
+<img src="cyber_readme_assets/image21.png" alt="image21.png" width="700">
 
 Learning platforms
 
 **Secure Code Warrior (companies exclusive)**
 
 ****
-![image22.png](cyber_readme_assets/image22.png)
+<img src="cyber_readme_assets/image22.png" alt="image22.png" width="700">
 
 [https://www.securecodewarrior.com](https://www.securecodewarrior.com)
 
@@ -365,7 +365,7 @@ Certifications
 
 SJD-100: Secure Java Development Essentials
 
-![image1.png](cyber_readme_assets/image1.png)
+<img src="cyber_readme_assets/image1.png" alt="image1.png" width="700">
 
 [https://www.offsec.com/courses/sjd-100](https://www.offsec.com/courses/sjd-100)
 
@@ -375,43 +375,43 @@ Level 1
 
 Certified Professional Penetration Tester
 
-![image2.png](cyber_readme_assets/image2.png)
+<img src="cyber_readme_assets/image2.png" alt="image2.png" width="700">
 
 [https://ine.com/security/certifications/ecppt-certification](https://ine.com/security/certifications/ecppt-certification)
 
 Junior Penetration Tester
 
-![image2.png](cyber_readme_assets/image2.png)
+<img src="cyber_readme_assets/image2.png" alt="image2.png" width="700">
 
 [https://ine.com/security/certifications/ejpt-certification](https://ine.com/security/certifications/ejpt-certification)
 
 PEN-200: Penetration Testing with Kali Linux
 
-![image1.png](cyber_readme_assets/image1.png)
+<img src="cyber_readme_assets/image1.png" alt="image1.png" width="700">
 
 [https://www.offsec.com/courses/pen-200](https://www.offsec.com/courses/pen-200)
 
 HTB Certified Bug Bounty Hunter
 
-![image14.png](cyber_readme_assets/image14.png)
+<img src="cyber_readme_assets/image14.png" alt="image14.png" width="700">
 
 [https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)
 
 Penetration Testing Certification
 
-![image14.png](cyber_readme_assets/image14.png)
+<img src="cyber_readme_assets/image14.png" alt="image14.png" width="700">
 
 [https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
 Red Team Ops I Exam
 
-![image8.png](cyber_readme_assets/image8.png)
+<img src="cyber_readme_assets/image8.png" alt="image8.png" width="700">
 
 [https://training.zeropointsecurity.co.uk/courses/red-team-ops](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
 
 Jr Penetration Tester (PT1)
 
-![image12.png](cyber_readme_assets/image12.png)
+<img src="cyber_readme_assets/image12.png" alt="image12.png" width="700">
 
 [https://tryhackme.com/certification/junior-penetration-tester](https://tryhackme.com/certification/junior-penetration-tester)
 
@@ -419,36 +419,36 @@ Level 2
 
 WEB-300: Advanced Web Attacks and Exploitation
 
-![image1.png](cyber_readme_assets/image1.png)
+<img src="cyber_readme_assets/image1.png" alt="image1.png" width="700">
 
 [https://www.offsec.com/courses/web-300](https://www.offsec.com/courses/web-300)
 
 EXP-301: Windows User Mode Exploit Development
 
-![image1.png](cyber_readme_assets/image1.png)
+<img src="cyber_readme_assets/image1.png" alt="image1.png" width="700">
 
 [https://www.offsec.com/courses/exp-301](https://www.offsec.com/courses/exp-301)
 
 PEN-300: Evasion Techniques and Breaching Defenses
 
-![image1.png](cyber_readme_assets/image1.png)
+<img src="cyber_readme_assets/image1.png" alt="image1.png" width="700">
 
 [https://www.offsec.com/courses/pen-300](https://www.offsec.com/courses/pen-300)
 
 Penetration Testing Certification
 
-![image14.png](cyber_readme_assets/image14.png)
+<img src="cyber_readme_assets/image14.png" alt="image14.png" width="700">
 
 [https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert)
 
 Practical Network Penetration Tester
-![image3.png](cyber_readme_assets/image3.png)
+<img src="cyber_readme_assets/image3.png" alt="image3.png" width="700">
 
 [https://certifications.tcm-sec.com/pnpt](https://certifications.tcm-sec.com/pnpt)
 
 Red Team Ops II Exam
 
-![image8.png](cyber_readme_assets/image8.png)
+<img src="cyber_readme_assets/image8.png" alt="image8.png" width="700">
 
 [https://training.zeropointsecurity.co.uk/pages/red-team-ops-ii-exam](https://training.zeropointsecurity.co.uk/pages/red-team-ops-ii-exam)
 
@@ -456,7 +456,7 @@ Level 3
 
 EXP-401: Advanced Windows Exploitation
 
-![image1.png](cyber_readme_assets/image1.png)
+<img src="cyber_readme_assets/image1.png" alt="image1.png" width="700">
 
 [https://www.offsec.com/courses/exp-401](https://www.offsec.com/courses/exp-401)
 
@@ -465,7 +465,7 @@ EXP-401: Advanced Windows Exploitation
 **Programming learning ****platforms**
 
 ****
-![image23.png](cyber_readme_assets/image23.png)
+<img src="cyber_readme_assets/image23.png" alt="image23.png" width="700">
 
 - [**freeCodeCamp**](https://www.freecodecamp.org) — full, free, project-based curriculum.
 - [**Codecademy**](https://www.codecademy.com) — interactive coding tracks for many languages.
@@ -475,7 +475,7 @@ EXP-401: Advanced Windows Exploitation
 - [**Exercism**](https://exercism.org) — mentor-guided exercises in many languages.
 **CTF ****platforms**
 
-![image24.gif](cyber_readme_assets/image24.gif)
+<img src="cyber_readme_assets/image24.gif" alt="image24.gif" width="700">
 
 - [**Hack The Box**](https://www.hackthebox.com) — labs & seasonal CTFs from beginner to pro.
 - [**picoCTF**](https://picoctf.org) — beginner-friendly annual CTF with always-on practice.
@@ -485,7 +485,7 @@ EXP-401: Advanced Windows Exploitation
 **Cybersecurity learning platforms (incl. secure coding)**
 
 ****
-![image25.png](cyber_readme_assets/image25.png)
+<img src="cyber_readme_assets/image25.png" alt="image25.png" width="700">
 
 - [**TryHackMe**](https://tryhackme.com/dashboard) 🎮 — guided, hands-on labs (red/blue/purple).
 - [**PortSwigger**** Web Security Academy**](https://portswigger.net/web-security) — superb free web-appsec labs.
@@ -494,7 +494,7 @@ EXP-401: Advanced Windows Exploitation
 - [**OWASP Cheat Sheet Series**](https://cheatsheetseries.owasp.org) — concise secure-coding best practices.
 **Secure**** ****coding**** learning ****platforms**
 
-![image26.jpeg](cyber_readme_assets/image26.jpeg)
+<img src="cyber_readme_assets/image26.jpeg" alt="image26.jpeg" width="700">
 
 - [**Secure Code Warrior**](https://www.securecodewarrior.com) 🎮 — gamified secure-coding challenges and tournaments.
 - [**Veracode Security Labs**](https://www.veracode.com/products/security-labs) 🎮 — hands-on labs to exploit and fix vulns in safe, containerized apps.
